@@ -1,7 +1,7 @@
 # Aya Jamal
 > Computer Science Student | Java Developer
 
-A highly motivated Computer Science student at Tanta University (GPA: 3.68/4.00) with a strong foundation in software architecture and problem-solving. Passionate about building efficient software, learning new technologies, and actively contributing to open-source projects.
+A highly motivated Computer Science student at Tanta University with a strong cumulative record **(GPA: 3.68/4.00)** and ranked between **top 20 out of 720+ students**. Passionate about building efficient software, learning new technologies, and actively contributing to open-source projects.
 
 ---
 
