@@ -21,9 +21,10 @@ A highly motivated Computer Science student at Tanta University with a strong cu
 
 ### Open Source Contributions
 
-| Project | Contribution | Links |
+| **LibreOffice** | Contribution | Links |
 |---------|--------------|-------|
-| **LibreOffice** | Implemented cardinal and ordinal numbering for text using the current text language instead of the program's locale language. | [https://gerrit.libreoffice.org/c/core/+/201931] |
+| |  tdf#117587 Ordinal/cardinal numbering preview | [https://gerrit.libreoffice.org/c/core/+/201931]
+|  tdf#48140 Remove uno calls from WorksheetGlobals::getCell | [https://gerrit.libreoffice.org/c/core/+/199674]
 
 ---
 
