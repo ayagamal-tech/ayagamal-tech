@@ -8,7 +8,7 @@ A highly motivated Computer Science student at Tanta University with a strong cu
 ### Professional Experience
 
 **Software Engineering Intern**
-* Successfully completed two professional internships in Software Development.
+* Successfully completed *two* professional internships in Software Development.
 * Gained hands-on experience working closely with development teams and applying academic knowledge to real-world business problems.
 
 ---
@@ -32,22 +32,6 @@ A highly motivated Computer Science student at Tanta University with a strong cu
 | tdf#146619 Remove unused #include b2dpolypolygontools.hxx from basegfx  | [https://gerrit.libreoffice.org/c/core/+/198229]
 | tdf#158337 use std::erase_if in basctl   | [https://gerrit.libreoffice.org/c/core/+/197136]
 | tdf#143148 use #pragma once in slideshow and bitmap | [https://gerrit.libreoffice.org/c/core/+/196921]
-
-
----
-
-### Continuous Learning
-
-* **Advanced Java:** Enrolled in an intensive Java course instructed by Eng. Ahmed Salah (VOIS), focusing on industry best practices, clean code, and robust application development.
-* **Professional Communication:** Actively enhancing my professional American English communication skills to prepare for global opportunities.
-
----
-
-### Core Skills
-
-* **Programming Languages:** Java, C++
-* **Databases:** Oracle, MySQL, NoSQL (Basics)
-* **Tools & Methodologies:** Git, GitHub, Gerrit, Linux, Object-Oriented Programming (OOP)
 
 ---
 
