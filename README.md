@@ -59,7 +59,7 @@ A highly motivated Computer Science student at Tanta University with a strong cu
 
 <div align="left">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayagamal-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayagamal-tech&theme=tokyonight&hide_border=true&dates=1a1b27" alt="GitHub Streak" />
 
   <br><br>
 
