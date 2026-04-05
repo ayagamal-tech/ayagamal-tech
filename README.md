@@ -23,7 +23,7 @@ A highly motivated Computer Science student at Tanta University with a strong cu
 
 | Project | Contribution | Links |
 |---------|--------------|-------|
-| **LibreOffice** |  tdf#117587 Ordinal/cardinal numbering preview [I implemented cardinal and ordinal numbering for text using the current text language instead of the program's locale language. The preview is now shown in the text language.], utilizing Gerrit for code review. | [https://gerrit.libreoffice.org/c/core/+/201931] |
+| **LibreOffice** | Implemented cardinal and ordinal numbering for text using the current text language instead of the program's locale language. | [https://gerrit.libreoffice.org/c/core/+/201931] |
 
 ---
 
