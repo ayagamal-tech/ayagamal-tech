@@ -25,6 +25,14 @@ A highly motivated Computer Science student at Tanta University with a strong cu
 |--------------|-------|
 | tdf#117587 Ordinal/cardinal numbering preview | [https://gerrit.libreoffice.org/c/core/+/201931]
 | tdf#48140 Remove uno calls from WorksheetGlobals::getCell | [https://gerrit.libreoffice.org/c/core/+/199674]
+| tdf#42982 Improve UNO API error reporting in sw/unotbl.cxx | [https://gerrit.libreoffice.org/c/core/+/198697]
+| tdf#114441 Convert use of sal_uLong to sal_uInt32  | [https://gerrit.libreoffice.org/c/core/+/198149]
+| tdf#48140 Remove uno calls from WorksheetGlobals::getCell | [https://gerrit.libreoffice.org/c/core/+/199674]
+| tdf#168520 Rename testTdf134576 | [https://gerrit.libreoffice.org/c/core/+/199231]
+| tdf#146619 Remove unused #include b2dpolypolygontools.hxx from basegfx  | [https://gerrit.libreoffice.org/c/core/+/198229]
+| tdf#158337 use std::erase_if in basctl   | [https://gerrit.libreoffice.org/c/core/+/197136]
+| tdf#143148 use #pragma once in slideshow and bitmap | [https://gerrit.libreoffice.org/c/core/+/196921]
+
 
 ---
 
