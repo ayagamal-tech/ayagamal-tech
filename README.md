@@ -1,4 +1,4 @@
-# Aya Jamal
+# 👋 Hello, I'm Aya Jamal!
 > Computer Science Student | Java Developer
 
 A highly motivated Computer Science student at Tanta University with a strong cumulative record **(GPA: 3.68/4.00)** and ranked between **top 20 out of 720+ students**. Passionate about building efficient software, learning new technologies, and actively contributing to open-source projects.
@@ -19,8 +19,11 @@ A highly motivated Computer Science student at Tanta University with a strong cu
 * Developing a comprehensive platform featuring a cutting-edge virtual try-on system.
 * Focusing on core system architecture, class design, and building an efficient database to handle complex retail operations.
 
-**Open Source Contributions**
-* Actively exploring and contributing to open-source software, utilizing enterprise-level tools like Gerrit for version control and code review.
+### Open Source Contributions
+
+| Project | Contribution | Links |
+|---------|--------------|-------|
+| **LibreOffice** |  tdf#117587 Ordinal/cardinal numbering preview [I implemented cardinal and ordinal numbering for text using the current text language instead of the program's locale language. The preview is now shown in the text language.], utilizing Gerrit for code review. | [https://gerrit.libreoffice.org/c/core/+/201931] |
 
 ---
 
