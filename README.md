@@ -24,7 +24,7 @@ A highly motivated Computer Science student at Tanta University with a strong cu
 | **LibreOffice** | Contribution | Links |
 |---------|--------------|-------|
 | |  tdf#117587 Ordinal/cardinal numbering preview | [https://gerrit.libreoffice.org/c/core/+/201931]
-|  tdf#48140 Remove uno calls from WorksheetGlobals::getCell | [https://gerrit.libreoffice.org/c/core/+/199674]
+| | tdf#48140 Remove uno calls from WorksheetGlobals::getCell | [https://gerrit.libreoffice.org/c/core/+/199674]
 
 ---
 
