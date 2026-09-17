@@ -15,7 +15,7 @@ A highly motivated Computer Science student at Tanta University with a strong cu
 
 ### Featured Projects & Open Source
 
-**Virtual Fashion and Retail (VFR) Platform** | *Graduation Project*
+**Virtual Fatting Room (VFR) Platform** | *Graduation Project*
 * Developing a comprehensive platform featuring a cutting-edge virtual try-on system.
 * Focusing on core system architecture, class design, and building an efficient database to handle complex retail operations.
 
